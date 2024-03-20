@@ -6,11 +6,11 @@
 
 1. Clone the repository
 
-   - `$ git clone https://github.com/alexislayvu/cpsc449-assignment1.git`
+   - `$ git clone https://github.com/NevanN/cpsc449proj1.git`
 
 2. Navigate to the directory
 
-   - `$ cd cpsc449-assignment1`
+   - `$ cd cpsc449proj1`
 
 3. Create and activate a virtual environment
 
@@ -28,11 +28,6 @@
    - Create database and tables
      - `mysql> source schema.sql`
 
-6. Provide your MySQL password
-
-   - Open `example.env` and replace `your_mysql_password` with your MySQL password
-   - Rename `example.env` to `.env`
-
-7. Run the Flask application
+6. Run the Flask application
 
    - `python main.py`
