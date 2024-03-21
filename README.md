@@ -1,4 +1,4 @@
-# CPSC 449 - Assignment 1
+# CPSC 449 - Midterm Project
 
 ### Developing a REST API in Flask for CPSC 449 Web Backend Engineering
 
