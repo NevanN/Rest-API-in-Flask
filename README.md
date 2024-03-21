@@ -26,7 +26,7 @@
    - Log into MySQL
      - `$ mysql -u root -p`
    - Create database and tables
-     - `mysql> source schema.sql`
+     - `mysql> source userdb.sql`
 
 6. Run the Flask application
 
