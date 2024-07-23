@@ -1,6 +1,6 @@
-# CPSC 449 - Midterm Project
+# REST API
 
-### Developing a REST API in Flask for CPSC 449 Web Backend Engineering
+### Developing a REST API in Flask for Web Backend Engineering
 
 ## Usage
 
